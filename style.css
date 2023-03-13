@@ -1,0 +1,21 @@
+#app{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    
+}
+
+body{
+    background-color: #010101;
+}
+
+h1{
+    font-family: sans-serif;
+    color: white;
+}
+
+img{
+    width: 200px;
+}
